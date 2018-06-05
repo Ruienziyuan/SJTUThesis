@@ -1,3 +1,11 @@
+Fork from [上海交通大学学位论文模板](https://github.com/sjtug/SJTUThesis)
+
+在原分支的基础上为了适用于`浙江大学宁波理工学院`学士学位论文而添加和/或修改部分文件。修改后可编译产生一份`智能液压系统及元件`的模板“论文”。
+
+该分支目的是配合博主的教程：[如何用LaTeX排版自己的毕业论文](https://brocadesoar.cn/blog/2018-06-04/thesis-latex)使用，为方便博主的同学下载和使用。
+
+该分支版权问题，除原分支要求（见该README最底部）外：1.在`figure`目录下的有关`浙江大学宁波理工学院`的logo图片文件虽由博主截图和转换但其版权或归浙江大学宁波理工学院所有；2.作为模板的论文内容（涉及根目录下的thesis.\*文件和目录IMG、RESOURCE、WENXIAN、YEYA及其子目录下的所有文件）归博主所有，不得二次发布。
+
 # 上海交通大学学位论文模板
 
 [![Build Status](https://travis-ci.org/sjtug/SJTUThesis.svg?branch=master)](https://travis-ci.org/sjtug/SJTUThesis)
